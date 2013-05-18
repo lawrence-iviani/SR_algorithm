@@ -1,0 +1,1 @@
+The	objective	of	our	pro ject is develop an algorithm that uses the basic concepts of super-resolution. Different variants of a main algorithm are proposed and tested. Finally, possible optimizations and suggestions for a future development are pre- sented.
